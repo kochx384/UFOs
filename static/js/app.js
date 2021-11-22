@@ -43,7 +43,7 @@ function updateFilters() {
         filters[filterID] = elementValue;
       }
       else {
-        delete filters[filderID];
+        delete filters[filterID];
       }
   
     // 6. Call function to apply all filters and rebuild the table
